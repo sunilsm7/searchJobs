@@ -11,10 +11,11 @@ import scrapy
 class ShellJobItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    title = scrapy.Field()
-    jobdetail_link = scrapy.Field()
-    job_description = scrapy.Field()
-    skill_group = scrapy.Field()
-    location = scrapy.Field()
-    last_updated = scrapy.Field()
-    hot_job = scrapy.Field()
+    # title = scrapy.Field()
+    # jobdetail_link = scrapy.Field()
+    # job_description = scrapy.Field()
+    # skill_group = scrapy.Field()
+    # location = scrapy.Field()
+    # last_updated = scrapy.Field()
+    # hot_job = scrapy.Field()
+    pass
